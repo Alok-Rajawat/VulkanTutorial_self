@@ -1,3 +1,7 @@
 .vs
-x64
-Debug
+*.obj
+x64/
+x86/
+[Dd]ebug/
+[Rr]elease/
+build/
